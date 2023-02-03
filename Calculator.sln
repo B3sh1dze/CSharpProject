@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{22CA31B3-3C74-46B9-91B8-2293EDC68EE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleToDoList", "SimpleToDoList", "{E972AD48-1EA3-47DE-BA17-A209B4874A02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleToDoList", "SimpleToDoList\SimpleToDoList.csproj", "{EAAADC11-CED9-46F9-B788-DEE0C3B0DC01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CA31B3-3C74-46B9-91B8-2293EDC68EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CA31B3-3C74-46B9-91B8-2293EDC68EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CA31B3-3C74-46B9-91B8-2293EDC68EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CA31B3-3C74-46B9-91B8-2293EDC68EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAAADC11-CED9-46F9-B788-DEE0C3B0DC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAADC11-CED9-46F9-B788-DEE0C3B0DC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAADC11-CED9-46F9-B788-DEE0C3B0DC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAADC11-CED9-46F9-B788-DEE0C3B0DC01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EAAADC11-CED9-46F9-B788-DEE0C3B0DC01} = {E972AD48-1EA3-47DE-BA17-A209B4874A02}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {684DB41F-C736-4C37-8013-12409708C286}
+	EndGlobalSection
+EndGlobal
